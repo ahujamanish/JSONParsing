@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "02A66A2A1C6CD82E00387AA1"
                BuildableName = "JSONParsing.framework"
-               BlueprintName = "JSONParsing-iOS"
+               BlueprintName = "JSONParsing"
                ReferencedContainer = "container:JSONParsing.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "02A66A341C6CD82E00387AA1"
-               BuildableName = "JSONParsingTests.xctest"
-               BlueprintName = "JSONParsingTests"
-               ReferencedContainer = "container:JSONParsing.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "02A66A2A1C6CD82E00387AA1"
-            BuildableName = "JSONParsing.framework"
-            BlueprintName = "JSONParsing-iOS"
-            ReferencedContainer = "container:JSONParsing.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -66,7 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "02A66A2A1C6CD82E00387AA1"
             BuildableName = "JSONParsing.framework"
-            BlueprintName = "JSONParsing-iOS"
+            BlueprintName = "JSONParsing"
             ReferencedContainer = "container:JSONParsing.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,7 +65,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "02A66A2A1C6CD82E00387AA1"
             BuildableName = "JSONParsing.framework"
-            BlueprintName = "JSONParsing-iOS"
+            BlueprintName = "JSONParsing"
             ReferencedContainer = "container:JSONParsing.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
