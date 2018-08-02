@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'JSONParsing'
-  s.version = '0.2.4'
+  s.version = '0.3.0'
   s.summary = 'JSON parsing made easy'
   s.description = 'This library helps you parse JSON directly into your custom models conforming to JSONParsing protocol.'
 
@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.source_files = 'Sources/*.swift'
 
   s.cocoapods_version = ">= 1.4.0"
-  s.swift_version = "4.1.2"
+  s.swift_version = "4.2.0"
 end
